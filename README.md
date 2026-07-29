@@ -30,15 +30,16 @@ Flutter, React, Java 기반 클라이언트와 Python/TypeScript 백엔드를 �
 ---
 
 ## 🧠 Key Project Experience
-### 🤞 ClimaGuard (제4회 재난안전데이터 활용 창업경진대회)
-
-- Flutter 활용 크로스 플랫폼 애플리케이션 (서비스시 안드로이드 우선 타겟)
   
 ### 🤞 내움먹 (Private) (2026 관광데이터 웹앱 예비 통과작 since 2026.05.18)
-> **이종 데이터 활용 (TourAPI, Kakao SDK, MET Data, 식품영양 DB 등 활용)**
+> **이종 데이터 활용 (TourAPI & Kakao SDK, MET Data & 식품영양처 DB, Odsay API & Tmap API & Kakao Moiblity 등 활용)**
 
 - Flutter 활용 크로스 플랫폼 애플리케이션 (서비스시 안드로이드 우선 타겟)
-- 아이디어는 출품 완료 후 공개
+- playstore 비공개 테스트 진행중
+
+### 🤞 ClimaGuard (제4회 재난안전데이터 활용 창업경진대회 - 종료)
+
+- Flutter 활용 크로스 플랫폼 애플리케이션 (서비스시 안드로이드 우선 타겟)
 
 ### 📈 MY_FINTECH (기술지표의 수정이 필요하지만 임시 종료 - 공모전 준비)
 > **실시간 금융 데이터 기반 자동매매 시스템**
