@@ -2,9 +2,9 @@
 
 # 안녕하세요, 신중근입니다 👋
 
-### Android(AOS) 네이티브 개발에 집중하는 Kotlin 기반 개발자
+### Android(AOS, AAOS)를 주력으로하며 이 외에 문제를 인식하고 기획, 문서화, 개발, 배포 및 유지보수의 전방위적인 과정을 담당합니다.
 
-**실시간 데이터 처리와 서비스 구조 설계**를 좋아하고, Kotlin/Java로 안드로이드 네이티브를, Flutter로 크로스플랫폼을, Python·TypeScript로 백엔드를 직접 설계·구축합니다.
+**새로운 문제에 직면하고 해결하여 서비스 및 기능을 제공하는 것**을 좋아하고, Kotlin/Java로 안드로이드 네이티브를, Flutter로 크로스플랫폼을, Python·TypeScript로 백엔드를 직접 설계 및 구축합니다.
 
 [![Gmail](https://img.shields.io/badge/Email-shinjg97%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shinjg97@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JoongGeunShin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoongGeunShin)
@@ -13,12 +13,12 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-- 📱 **Android(AOS) 네이티브 개발**에 집중하며, **Kotlin** 기반의 안정적이고 확장 가능한 앱 구조 설계를 지향합니다.
-- 🔀 Flutter 기반 크로스플랫폼 서비스에서도 **안드로이드를 최우선 타겟**으로 두고 UI/UX와 상태 관리를 설계해왔습니다.
-- 🔌 REST API + WebSocket 하이브리드 구조 설계, 실시간 데이터 처리 및 사용자 맞춤 로직 구현 경험을 보유하고 있습니다.
-- 🧩 Python/TypeScript 기반 백엔드부터 클라이언트까지, **API 서버 · WebSocket · 데이터 흐름을 아우르는 End-to-End 개발** 경험이 있습니다.
+-  **Android(AOS, AAOS) 네이티브 개발**에 집중하며, **Kotlin** 기반의 안정적이고 확장 가능한 앱 구조 설계를 지향합니다.
+-  Flutter 기반 크로스플랫폼 서비스에서도 **안드로이드를 최우선 타겟**으로 두고 UI/UX와 상태 관리를 설계해왔습니다.
+-  REST API + WebSocket 하이브리드 구조 설계, 실시간 데이터 처리 및 사용자 맞춤 로직 구현 경험을 보유하고 있습니다.
+-  Python/TypeScript 기반 백엔드부터 클라이언트까지, **API 서버 · WebSocket · 데이터 흐름을 아우르는 End-to-End 개발** 경험이 있습니다.
 
 ---
 
@@ -28,12 +28,12 @@
 <tr>
 <td valign="top" width="50%">
 
-### 📱 Android / Kotlin
-- Kotlin, Java 기반 안드로이드 네이티브 개발 역량 강화 중
+### Android / Kotlin, Java
+- 초기 Java 기반 안드로이드 네이티브 개발 이후 현재 Kotlin 역량 강화 
 - Flutter 크로스플랫폼 서비스에서도 **안드로이드 우선 타겟**으로 설계
 - 상태 기반 UI 설계 및 실시간 데이터 반영 UX 최적화
 
-### 🌐 Backend Architecture
+### Backend Architecture
 - Flask / Node(TypeScript) 기반 API 서버 설계
 - RESTful API + WebSocket 병행 구조 구축
 - 비동기 처리 및 데이터 흐름 설계
@@ -41,11 +41,11 @@
 </td>
 <td valign="top" width="50%">
 
-### ⚡ Realtime Data Processing
+### Realtime Data Processing
 - 금융 API(Kiwoom, KIS) 기반 실시간 데이터 처리
 - Streaming 데이터 핸들링 및 사용자 맞춤 가공
 
-### 🖥 Frontend (Flutter, React)
+### Frontend (Flutter, React)
 - 상태 기반 UI 설계 및 사용자 경험 최적화
 - 실시간 데이터 반영 UI 구성
 
@@ -55,14 +55,14 @@
 
 ---
 
-## 🧠 Key Project Experience
+## 🗝️ Key Project Experience
 
 ### 🍽️ 내움먹 <sub>(Private)</sub>
 > 2026 관광데이터 웹앱 예비 통과작 · since 2026.05
 > 이종 데이터 활용 (TourAPI & Kakao SDK, MET Data & 식품영양처 DB, Odsay/Tmap/Kakao Mobility API)
 
 - Flutter 기반 크로스플랫폼 애플리케이션, **서비스 시 안드로이드 우선 타겟**
-- Play Store 비공개 테스트 진행 중
+- Play Store 배포 중
 
 ### 🌦️ ClimaGuard
 > 제4회 재난안전데이터 활용 창업경진대회 (종료)
@@ -70,7 +70,7 @@
 - Flutter 기반 크로스플랫폼 애플리케이션, **서비스 시 안드로이드 우선 타겟**
 
 ### 📈 MY_FINTECH
-> 실시간 금융 데이터 기반 자동매매 시스템 · 기술지표 개선을 위해 임시 종료 (공모전 준비)
+> 실시간 금융 데이터 기반 자동매매 시스템 · 기술지표 개선중
 
 - TypeScript 기반 서버 아키텍처 구축
 - KIS API 연동 (WebSocket + HTTP Hybrid)
@@ -146,7 +146,7 @@
 - 병원·복지관 예약 API 연동으로 콜 발생 전 수요를 확보하는 **예측배차** 제안
 - 목적지·시간대 기반 **AI 동승매칭**으로 차량 회전율 개선
 - 추가 차량·예산 없이 기존 통합배차 인프라에 모듈만 더하는 저비용 소프트웨어 개선안
-- 📂 [제안서 저장소 바로가기](https://github.com/JoongGeunShin/Gyeonggi_Citizens_Management_Innovation_Idea_Contest)
+-  [제안서 저장소 바로가기](https://github.com/JoongGeunShin/Gyeonggi_Citizens_Management_Innovation_Idea_Contest)
 
 ---
 
